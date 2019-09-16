@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Pycharm directory
+.idea
+
+# Ignoring for now
+Pipfile.lock
